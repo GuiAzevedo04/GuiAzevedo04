@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá! Seja bem-vindo(a) ao meu repositório!
 
-<!--
-**GuiAzevedo22/GuiAzevedo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Minha experiência:
+📚 Atualmente estou cursando o 3º período do curso de Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+
+Olá! Meu nome é Guilherme (pode chamar de Gui), tenho 19 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou em busca do meu bacharel em Ciência da Computação pela Universidade Federal de Lavras e também estou aprendendo Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), estatística e SQL, com o intuito de desenvolver projetos e contribuir para área de Data Science.
+
+### Soft Skills:
+Comunicativo
+Trabalho em equipe
+Proativo
+
+Por favor, fique à vontade para explorar meus projetos e entrar em contato comigo no email guilhermeazevedo2212@gmail.com, estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
