@@ -11,7 +11,7 @@
 
 ## Sobre mim:
 
-Meu nome é Guilherme (pode chamar de Gui), tenho 19 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou em busca do meu bacharel em Ciência da Computação pela Universidade Federal de Lavras e também estou aprendendo Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), estatística e SQL, com o intuito de desenvolver projetos e contribuir para área de Data Science.
+Meu nome é Guilherme, tenho 19 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou cursando bacharelado em Ciência da Computação pela Universidade Federal de Lavras e também estou aprendendo Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), estatística e SQL, com o intuito de desenvolver projetos e contribuir para área de Data Science.
 
 ### Hard Skills:
 
@@ -39,7 +39,7 @@ Por favor, fique à vontade para explorar meus projetos e entrar em contato comi
 
 ## About me:
 
-My name is Guilherme (you can call me Gui), I am 19 years old, and I have been passionate about Computer Science since childhood. I always knew it was what I wanted to do with my life. Currently, I am pursuing my Bachelor's degree in Computer Science at the Federal University of Lavras. I am also learning Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), statistics, and SQL, with the aim of developing projects and contributing to the field of Data Science.
+My name is Guilherme, I am 19 years old, and I have been passionate about Computer Science since childhood. I always knew it was what I wanted to do with my life. Currently, I am graduating in Computer Science at the Federal University of Lavras. I am also learning Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), statistics, and SQL, with the aim of developing projects and contributing to the field of Data Science.
 
 ### Hard Skills:
 
