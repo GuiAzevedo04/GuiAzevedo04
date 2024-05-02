@@ -15,17 +15,22 @@ Meu nome é Guilherme, tenho 19 anos e sou apaixonado desde pequeno por Computa�
 
 ### Hard Skills:
 
-- Programação lógica
 - Python (Numpy, Matplotlib, Pandas)
-- Resolução de Problemas
+- Excel e PowerBI
+- Git & Version Control
+- Programação lógica
+- C++
+- Fluência em Inglês 
+
 
 ### Soft Skills:
 
 - Comunicativo
 - Proativo
-- Trabalho em equipe
+- Trabalho bem equipe
 - Empatia
 - Positividade
+- Aprendo rápido
 
 <br>
 
@@ -43,17 +48,21 @@ My name is Guilherme, I am 19 years old, and I have been passionate about Comput
 
 ### Hard Skills:
 
-- Logical Programming
 - Python (Numpy, Matplotlib, Pandas)
-- Problem Solving
+- Excel & PowerBI
+- Git & Version Control
+- Logical Programming
+- C++
+- English Fluency
 
 ### Soft Skills:
 
 - Communicative
 - Proactive
-- Teamwork
+- Work well in teams
 - Empathy
 - Positivity
+- Fast learner
 
 <br>
 
