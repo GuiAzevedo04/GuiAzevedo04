@@ -15,11 +15,11 @@ Meu nome é Guilherme, tenho 19 anos e sou apaixonado desde pequeno por Computa�
 
 ### Hard Skills:
 
-- Python (Numpy, Matplotlib, Pandas)
-- Excel e PowerBI
+- Python Básico
+- Excel Básico
 - Git & Version Control
 - Programação lógica
-- C++
+- C++ Básico
 - Fluência em Inglês 
 
 
@@ -48,12 +48,13 @@ My name is Guilherme, I am 19 years old, and I have been passionate about Comput
 
 ### Hard Skills:
 
-- Python (Numpy, Matplotlib, Pandas)
-- Excel & PowerBI
+- Basic Python
+- Excel 
 - Git & Version Control
 - Logical Programming
-- C++
+- Basic C++
 - English Fluency
+- Native Portuguese
 
 ### Soft Skills:
 
