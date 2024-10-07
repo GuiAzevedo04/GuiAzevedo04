@@ -41,11 +41,11 @@ Por favor, fique à vontade para explorar meus projetos e entrar em contato comi
 
 ## My experience:
 
-📚 I am currently in the 3rd semester of the Computer Science program at UFLA (Federal University of Lavras).
+📚 I am currently in the 4rd semester of the Computer Science program at UFLA (Federal University of Lavras).
 
 ## About me:
 
-My name is Guilherme, I am 19 years old, and I have been passionate about Computer Science since childhood. I always knew it was what I wanted to do with my life. Currently, I am graduating in Computer Science at the Federal University of Lavras. I am also learning Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), statistics, and SQL, with the aim of developing projects and contributing to the field of Data Science.
+My name is Guilherme, I am 20 years old, and I have been passionate about Computer Science since childhood. I always knew it was what I wanted to do with my life. Currently, I am graduating in Computer Science at the Federal University of Lavras. I am also learning Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), statistics, and SQL, with the aim of developing projects and contributing to the field of Data Science.
 
 ### Hard Skills:
 
