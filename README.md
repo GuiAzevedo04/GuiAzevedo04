@@ -7,11 +7,11 @@
 
 ## Minha experiência:
 
-📚 Atualmente estou cursando o 3º período do curso de Ciência da Computação na UFLA (Universidade Federal de Lavras)
+📚 Atualmente estou cursando o 4º período do curso de Ciência da Computação na UFLA (Universidade Federal de Lavras)
 
 ## Sobre mim:
 
-Meu nome é Guilherme, tenho 19 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou cursando bacharelado em Ciência da Computação pela Universidade Federal de Lavras e estou interessado em aprender sobre diversas áreas, no momento tenho meu foco em Data Science e Desenvolvimento Web Back-End.
+Meu nome é Guilherme, tenho 20 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou cursando bacharelado em Ciência da Computação pela Universidade Federal de Lavras e estou interessado em aprender sobre diversas áreas, no momento tenho meu foco em Data Science e Desenvolvimento Web Back-End.
 
 ### Hard Skills:
 
@@ -19,10 +19,9 @@ Meu nome é Guilherme, tenho 19 anos e sou apaixonado desde pequeno por Computa�
 - Git & Version Control
 - Programação lógica
 - Fluência em Inglês
-- Python (Numpy, Matplotlib, Pandas, ScyPy, Django)
+- Python (Numpy, Matplotlib, Pandas, ScyPy)
 - Java (Spring Framework, Maven, JUnit, Mockito, AssertJ)
-- C++ (C++ STL)
-- SQL (Postgresql, MySQL)
+- SQL Básico
 
 
 ### Soft Skills:
@@ -55,10 +54,9 @@ My name is Guilherme, I am 19 years old, and I have been passionate about Comput
 - Logical Programming
 - English Fluency
 - Native Portuguese
-- Python (Numpy, Matplotlib, Pandas, ScyPy, Django)
+- Python (Numpy, Matplotlib, Pandas, ScyPy)
 - Java (Spring Framework, Maven, JUnit, Mockito, AssertJ)
-- C++ (C++ STL)
-- SQL (Postgresql, MySQL)
+- SQL Básico
 
 ### Soft Skills:
 
