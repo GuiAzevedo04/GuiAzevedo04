@@ -1,72 +1,8 @@
-# Languages / Linguagens:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Azevedo=========================================================================================================================================CS Student interested in ML and AI----------------------------------I've always been interested in Math and Computers and ever since becoming a CS student my interest has only grown, now I'm directing my efforts into becoming a data scientist* 🌍  I'm based in Lavras - Minas Gerais* ✉️  You can contact me at [guilhermeazevedo2212@gmail.com](mailto:guilhermeazevedo2212@gmail.com)* 🧠  I'm learning about Data Science and ML at the moment* ⚡  If you are coding in python, please use type hinting it makes the world a better place
 
-- [Meu README em Português](#meu-readme-em-portugu%C3%AAs)
-- [My README in English](#my-readme-in-english)
-
-# Meu README em Português
-
-## Minha experiência:
-
-📚 Atualmente estou cursando o 4º período do curso de Ciência da Computação na UFLA (Universidade Federal de Lavras)
-
-## Sobre mim:
-
-Meu nome é Guilherme, tenho 20 anos e sou apaixonado desde pequeno por Computação, sempre soube que era o que eu queria fazer da minha vida. No momento estou cursando bacharelado em Ciência da Computação pela Universidade Federal de Lavras e estou interessado em aprender sobre diversas áreas, no momento tenho meu foco em Data Science e Desenvolvimento Web Back-End.
-
-### Hard Skills:
-
-- Excel Básico
-- Git & Version Control
-- Programação lógica
-- Fluência em Inglês
-- Python (Numpy, Matplotlib, Pandas, ScyPy)
-- Java (Spring Framework, Maven, JUnit, Mockito, AssertJ)
-- SQL Básico
+### Skills
 
 
-### Soft Skills:
-
-- Comunicativo
-- Proativo
-- Trabalho bem equipe
-- Empatia
-- Positividade
-- Aprendo rápido
-
-<br>
-
-Por favor, fique à vontade para explorar meus projetos e entrar em contato comigo no email guilhermeazevedo2212@gmail.com, estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
-
-# My README in English
-
-## My experience:
-
-📚 I am currently in the 4th semester of the Computer Science program at UFLA (Federal University of Lavras).
-
-## About me:
-
-My name is Guilherme, I am 20 years old, and I have been passionate about Computer Science since childhood. I always knew it was what I wanted to do with my life. Currently, I am graduating in Computer Science at the Federal University of Lavras. I am also learning Python (Pandas, matplotlib, numpy, scikit-learn, TensorFlow), statistics, and SQL, with the aim of developing projects and contributing to the field of Data Science.
-
-### Hard Skills:
-
-- Basic Excel 
-- Git & Version Control
-- Logical Programming
-- English Fluency
-- Native Portuguese
-- Python (Numpy, Matplotlib, Pandas, ScyPy)
-- Java (Spring Framework, Maven, JUnit, Mockito, AssertJ)
-- SQL Básico
-
-### Soft Skills:
-
-- Communicative
-- Proactive
-- Work well in teams
-- Empathy
-- Positivity
-- Fast learner
-
-<br>
-
-Feel free to explore my projects and contact me at guilhermeazevedo2212@gmail.com. I am excited to share my knowledge and collaborate on interesting projects.
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/GuiAzevedo22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/guilherme-luiz-azevedo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
