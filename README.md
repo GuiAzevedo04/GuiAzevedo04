@@ -8,8 +8,7 @@ I've always been interested in Math and Computers and ever since becoming a CS s
 
 *   🌍  I'm based in Lavras - Minas Gerais
 *   ✉️  You can contact me at [guilhermeazevedo2212@gmail.com](mailto:guilhermeazevedo2212@gmail.com)
-*   🧠  I'm learning about Data Science and ML at the moment
-*   ⚡  If you are coding in python, please use type hinting it makes the world a better place
+*   🧠  I'm learning about Data Science and ML at the momen
 
 ### Skills 
 <p align="left">
